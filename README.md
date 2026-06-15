@@ -24,5 +24,4 @@ Os códigos presentes neste repositório foram desenvolvidos como parte das ativ
 ## Autora
 
 Amanda Alvarenga Dias
-
 Graduanda em Ciência da Computação – PUC Minas
